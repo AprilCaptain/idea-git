@@ -12,5 +12,6 @@ public class IdeaGit {
         System.out.println("冲突测试：在 master 分支上修改了代码");
 
         System.out.println("冲突测试：在 dev 分支上修改了代码");
+        System.out.println("从 IDEA push 到远程库");
     }
 }
